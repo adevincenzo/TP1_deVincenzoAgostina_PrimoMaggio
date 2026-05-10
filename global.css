@@ -102,6 +102,13 @@ a:active{
     flex-direction: row;
     width: 10vw;
 }
+.flex-item4{
+    flex:3;
+    padding: 1%;
+    text-align: left;
+    flex-direction: row;
+    width: 10vw;
+}
 section{ 
     padding: 0.5%;
     margin: 0%;
@@ -120,8 +127,8 @@ iframe{
 button{
     background-color: #403085;
     color: #F8FAFC;
-    padding: 1% 2%;
-    font-size: 3vh;
+    padding: 2% 3%;
+    font-size: 2.5vh;
     cursor: pointer;
     border:none;
     border-radius:1vw;
